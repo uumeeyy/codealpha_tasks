@@ -1,0 +1,7 @@
+tensorflow>=2.15
+tensorflow-datasets>=4.9   # only needed for EMNIST loading in train.py
+numpy
+matplotlib
+pillow
+streamlit
+streamlit-drawable-canvas
